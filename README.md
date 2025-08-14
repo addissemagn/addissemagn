@@ -1,6 +1,6 @@
 ### Hi, I'm Addis ♪٩(✿′ᗜ‵✿)۶♪
 
-I'm a Software Engineer at [Cash App](https://cash.app).
+I'm a Senior Software Engineer at [Cash App](https://cash.app).
 
 I studied Computer Engineering at the [University of Toronto](https://www.engineering.utoronto.ca/).
 
